@@ -1,5 +1,11 @@
 ## Welcome to GitHub Pages
 
+# Vincent's First CS193 Homework
+
+ - CS193 is chill
+ - CS193 has some awesome people in it
+ - CS193 is... well I've only had one CS 193 class so far so honestly I shouldn't jump the gun :(
+
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
